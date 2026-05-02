@@ -1,4 +1,5 @@
 ** Nome: Gabriel Igeski Donato **
+
 **CanvasGame – Desvie dos Obstáculos**
 Um jogo simples feito em p5.js, onde você controla um quadrado azul e precisa desviar dos obstáculos vermelhos que aparecem na tela.
 
