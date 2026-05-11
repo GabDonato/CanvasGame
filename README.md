@@ -61,3 +61,6 @@ p5.js – Biblioteca JavaScript para gráficos e jogos interativos.
 A dificuldade aumenta automaticamente conforme a pontuação.
 
 O jogo é totalmente executado no navegador, sem necessidade de instalação.
+
+**Link De Defesa**
+https://youtu.be/FEXTcPr5sh0?si=nV7a1OEabwRKBqEJ
